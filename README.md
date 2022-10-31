@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, меня зовут Фанис
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**fanisgilmanov/fanisgilmanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+С 2019 года работаю qa-инженером в ручном тестировании
+Закончил курс для инженеров по автоматизации тестирования https://qa.guru
+C 2022 изучаю и занимаюсь автоматизацией тестирования
 
-Here are some ideas to get you started:
+Skills: Java / Juinit 5 / Gradle / Selenide / Selenoid / Selenium / Jenkins / Github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
