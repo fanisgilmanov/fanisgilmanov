@@ -15,7 +15,7 @@
  
   |Название дипломного проекта      |Ссылка в GitHub                                    
   |-------------------------------- |--------------------------------------------------|
-  | Проект по UI + API автоматизации   https://github.com/fanisgilmanov/qa_guru_diplom_UI_API |  
+  | Проект по UI + API автоматизации|   https://github.com/fanisgilmanov/qa_guru_diplom_UI_API |  
   | Проект по Mobile автоматизации  |  https://github.com/fanisgilmanov/qa_guru_diplom_Mobile |  
   
  
